@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "933660734182",
+    "project_id": "chef-at-home-10e09",
+    "storage_bucket": "chef-at-home-10e09.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933660734182:android:501c53946d51c459f0c127",
+        "android_client_info": {
+          "package_name": "com.chefathome.chefathome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933660734182-j0mck23t6dgbmjv24ij8ga39ue670lea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chefathome.chefathome",
+            "certificate_hash": "3ebfb740a25f0ff566aa9ac3646357e4eaa4c785"
+          }
+        },
+        {
+          "client_id": "933660734182-3mrtpu0jkh9gojnf186bejv7lo52umbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3kobL6r0u2dqe1XLz6vtLiBOYo_Tsznk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933660734182-3mrtpu0jkh9gojnf186bejv7lo52umbi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933660734182-j8g8bjagofsofterouh9fgbrbqbdm5qh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chefathome.chefathome"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
